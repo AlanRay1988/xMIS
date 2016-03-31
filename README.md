@@ -1,2 +1,2 @@
 # xMIS
-Especial Management Information System
+Management Information System
